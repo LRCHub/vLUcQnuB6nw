@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "春愁 (~The White Lounge Version~ / Live)",
+  "base_artist": "Mrs. GREEN APPLE",
+  "createdAt": "2025-12-09T12:46:24.558122Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "春愁",
+      "artist": "Mrs. Green Apple",
+      "has_synced": true,
+      "path": "select/01_春愁_Mrs._Green_Apple.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "春愁",
+      "artist": "Mrs. Green Apple",
+      "has_synced": true,
+      "path": "select/02_春愁_Mrs._Green_Apple.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "春愁 - ~The White Lounge Version~ / Live",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": true,
+      "path": "select/03_春愁_-_~The_White_Lounge_Version~___Live_Mrs._GREEN_APPLE.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "春愁 (~The White Lounge Version~ / Live / 映画「The White Lounge in CINEMA」より)",
+      "artist": "Mrs. Green Apple",
+      "has_synced": false,
+      "path": "select/04_春愁_(~The_White_Lounge_Version~___Live___映画「The_White_Lounge_in_CINEMA」より)_Mrs._Green_Apple.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "春愁 - Shunshu",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": true,
+      "path": "select/05_春愁_-_Shunshu_Mrs._GREEN_APPLE.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "春愁",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": false,
+      "path": "select/pl_01_春愁_Mrs._GREEN_APPLE.txt"
+    }
+  ]
+}
